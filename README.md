@@ -1,5 +1,6 @@
 ### Hi there 👋 , I'm [Hasan Wazzan a.k.a Mr Pofty](https://www.github.com/MrPofty)
 Software Engineer @ Amazon London 🇬🇧 
+Also enrolled at the University of Roehampton
 
 <p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=MrPofty" alt="visitor badge"/></p>
 
