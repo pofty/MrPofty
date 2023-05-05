@@ -3,6 +3,7 @@ Software Engineer @ Amazon London 🇬🇧
 Also enrolled at the University of Roehampton
 ***
 below contribution is not a valid measurment due to using alternative Source Code Control System at work
+All opinions are mine
 
 <p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=MrPofty" alt="visitor badge"/></p>
 
