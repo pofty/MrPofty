@@ -2,7 +2,7 @@
 Software Engineer @ Amazon London 🇬🇧 
 Also enrolled at the University of Roehampton
 ***
-below contribution is not a valid measurment due to using alternative SCCS version control for work
+below contribution is not a valid measurment due to using alternative Source Code Control System at work
 
 <p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=MrPofty" alt="visitor badge"/></p>
 
